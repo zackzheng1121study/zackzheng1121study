@@ -4,7 +4,7 @@
 
 **這個是我學校用的帳號，我平常用的在[這裡](https://github.com/zackzheng1121) This is the account used by my school. The one I usually use is[here](https://github.com/zackzheng1121).**
 ### 我主要在做什麼
-學c#(技藝班)，對python有一些基礎(指print) Learn C# (technical class) and have some basic knowledge of python (referring to print))
+學c#(技藝班)，對python有一些基礎(指print)    Learn C# (technical class) and have some basic knowledge of python (referring to print))
 #### 怎麼聯絡我? How to contact me?
 gmail:zackzheng.1121@gmail.com
 discord:zackzheng_online
