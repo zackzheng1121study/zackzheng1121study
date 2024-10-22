@@ -9,3 +9,4 @@ gmail:zackzheng.1121@gmail.com
 discord:zackzheng_online
 ##### 我的貢獻 
 [![zackzheng1121study's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackzheng1121study)](https://github.com/anuraghazra/github-readme-stats)
+[![zackzheng1121study's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackzheng1121study)](https://github.com/anuraghazra/github-readme-stats)
